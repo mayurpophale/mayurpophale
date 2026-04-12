@@ -51,9 +51,10 @@
 
 ## 📌 Featured Projects
 
-🚀 [Informed Consent AI – Financial Awareness Platform](https://t21-code-blooded.vercel.app/)
+🚀 Informed Consent AI – Financial Awareness Platform
 
 🔗 Live: https://t21-code-blooded.vercel.app/
+💻 Code: https://github.com/khilesh321/T21_CodeBlooded
 
 💻 AI-powered SaaS platform to improve financial decision-making by making consent clear, accessible, and trustworthy
 
