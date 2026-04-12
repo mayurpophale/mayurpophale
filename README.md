@@ -24,6 +24,12 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
+### 📊 Data & Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
+
 ### 🌐 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -44,7 +50,22 @@
 
 ## 📌 Featured Projects
 
-*Project1 :- AI-powered platform that simplifies financial consent using clear explanations, multilingual support, and intuitive UI—helping users understand risks and terms before approving decisions.
+🚀 Informed Consent AI – Financial Awareness Platform
+🔗 Live: https://t21-code-blooded.vercel.app/
+
+💻 AI-powered platform focused on safe financial decision-making
+Built with modern web technologies to simplify complex financial approvals
+
+✨ Features:
+• Simplifies loans, mandates & insurance terms
+• Multilingual support for better accessibility
+• Clear risk & obligation breakdown before approval
+• User-friendly UI for low digital literacy users
+
+🎨 Design:
+Inclusive UX with focus on clarity, trust, and accessibility
+
+
 
 ---
 
@@ -78,6 +99,7 @@
 * 💼 LinkedIn: [https://www.linkedin.com/in/mayur-pophale-4](https://www.linkedin.com/in/mayur-pophale-4)
 * 🧠 LeetCode: [https://leetcode.com/u/mayurpophale/](https://leetcode.com/u/mayurpophale/)
 * 📧 Email: [mayurpophale01@gmail.com](mailto:mayurpophale01@gmail.com)
+* 📱 Telegram: [https://t.me/your_username](https://t.me/your_username)
 
 ---
 
