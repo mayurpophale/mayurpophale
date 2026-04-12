@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IT+Student+@+GECA;Frontend+Developer;UI%2FUX+Designer;Python+%7C+C%2B%2B+%7C+DSA+Learner" />
 </p>
-
+💡 Building user-friendly and impactful digital solutions with a focus on UI/UX and real-world problem solving
 ---
 
 ## 🚀 About Me
@@ -54,17 +54,19 @@
 
 🔗 Live: https://t21-code-blooded.vercel.app/
 
-💻 AI-powered platform focused on safe financial decision-making
-Built with modern web technologies to simplify complex financial approvals
+💻 AI-powered SaaS platform to improve financial decision-making by making consent clear, accessible, and trustworthy
 
 ✨ Features:
-• Simplifies loans, mandates & insurance terms
+• Simplifies complex financial terms (loans, mandates, insurance)
 • Multilingual support for better accessibility
 • Clear risk & obligation breakdown before approval
 • User-friendly UI for low digital literacy users
 
 🎨 Design:
 Inclusive UX with focus on clarity, trust, and accessibility
+
+🛠️ Tech Stack:
+React.js | Tailwind CSS | JavaScript | AI APIs
 
 
 
@@ -74,7 +76,7 @@ Inclusive UX with focus on clarity, trust, and accessibility
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurpophale&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mayurpophale&theme=tokyonight" />
 </p>
 
 ---
@@ -84,8 +86,14 @@ Inclusive UX with focus on clarity, trust, and accessibility
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mayurpophale?theme=dark&font=Baloo&ext=contest" />
 </p>
+
+--- 
+
 ## 🧠 DSA Practice
-[![NeetCode Profile](https://img.shields.io/badge/NeetCode-View%20Profile-blue?style=for-the-badge)](https://neetcode.io/profile)
+
+🚀 Practicing Data Structures & Algorithms on NeetCode  
+🔗 https://neetcode.io/profile
+
 ---
 
 ## 🔗 Connect with Me
