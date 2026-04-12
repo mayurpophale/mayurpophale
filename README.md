@@ -84,7 +84,8 @@ Inclusive UX with focus on clarity, trust, and accessibility
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mayurpophale?theme=dark&font=Baloo&ext=contest" />
 </p>
-
+## 🧠 DSA Practice
+[![NeetCode Profile](https://img.shields.io/badge/NeetCode-View%20Profile-blue?style=for-the-badge)](https://neetcode.io/profile)
 ---
 
 ## 🔗 Connect with Me
@@ -92,7 +93,7 @@ Inclusive UX with focus on clarity, trust, and accessibility
 * 💼 LinkedIn: [https://www.linkedin.com/in/mayur-pophale-4](https://www.linkedin.com/in/mayur-pophale-4)
 * 🧠 LeetCode: [https://leetcode.com/u/mayurpophale/](https://leetcode.com/u/mayurpophale/)
 * 📧 Email: [mayurpophale01@gmail.com](mailto:mayurpophale01@gmail.com)
-* 📱 Telegram: [https://t.me/mayur012](https://t.me/mayurpophale012)
+* 📱 Telegram: [https://t.me/mayurpophale012](https://t.me/mayurpophale012)
 
 ---
 
