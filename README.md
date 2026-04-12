@@ -71,14 +71,6 @@ Inclusive UX with focus on clarity, trust, and accessibility
 ---
 
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurpophale&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=mayurpophale&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
