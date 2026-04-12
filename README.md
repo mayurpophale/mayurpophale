@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IT+Student+@+GECA;Frontend+Developer;UI%2FUX+Designer;Python+%7C+C%2B%2B+%7C+DSA+Learner" />
 </p>
+
 💡 Building user-friendly and impactful digital solutions with a focus on UI/UX and real-world problem-solving
 
 ---
@@ -61,8 +62,11 @@
 
 ✨ Features:
 • Simplifies complex financial terms (loans, mandates, insurance)
+
 • Multilingual support for better accessibility
+
 • Clear risk & obligation breakdown before approval
+
 • User-friendly UI for low digital literacy users
 
 🎨 Design:
@@ -80,15 +84,6 @@ React.js | Tailwind CSS | JavaScript | AI APIs
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mayurpophale&theme=tokyonight" />
-</p>
-
----
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurpophale&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
