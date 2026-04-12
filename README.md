@@ -51,6 +51,7 @@
 ## 📌 Featured Projects
 
 🚀 Informed Consent AI – Financial Awareness Platform
+
 🔗 Live: https://t21-code-blooded.vercel.app/
 
 💻 AI-powered platform focused on safe financial decision-making
@@ -69,12 +70,12 @@ Inclusive UX with focus on clarity, trust, and accessibility
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurpophale&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurpophale&layout=compact&theme=tokyonight" />
-</p>
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurpophale&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=mayurpophale&theme=tokyonight)
 
 ---
 
