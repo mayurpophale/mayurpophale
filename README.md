@@ -92,7 +92,7 @@ Inclusive UX with focus on clarity, trust, and accessibility
 * 💼 LinkedIn: [https://www.linkedin.com/in/mayur-pophale-4](https://www.linkedin.com/in/mayur-pophale-4)
 * 🧠 LeetCode: [https://leetcode.com/u/mayurpophale/](https://leetcode.com/u/mayurpophale/)
 * 📧 Email: [mayurpophale01@gmail.com](mailto:mayurpophale01@gmail.com)
-* 📱 Telegram: [https://t.me/your_username](https://t.me/your_username)
+* 📱 Telegram: [https://t.me/mayur012](https://t.me/mayurpophale012)
 
 ---
 
