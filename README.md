@@ -61,6 +61,7 @@
 💻 AI-powered SaaS platform to improve financial decision-making by making consent clear, accessible, and trustworthy
 
 ✨ Features:
+
 • Simplifies complex financial terms (loans, mandates, insurance)
 
 • Multilingual support for better accessibility
