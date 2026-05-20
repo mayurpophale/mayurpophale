@@ -12,7 +12,7 @@
 
 💻 IT Student @ GECA Aurangabad
 🎯 Aspiring Software Developer
-🌐 Frontend Developer | UI/UX Designer
+🌐 Frontend Developer 
 🐍 Python | C++ | DSA
 📊 Learning Data Analysis & Problem Solving
 
